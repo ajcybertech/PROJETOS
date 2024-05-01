@@ -1,0 +1,19 @@
+/* PARA DISPOSITIVOS MÓVEIS */
+@media only screen and (max-width: 767px){
+/* Regras CSS para dispositivos móveis */
+}
+
+/* PARA TABLETS */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+/* Regras CSS para tablets */
+}
+
+/* PARA LAPTOPS */
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+/* Regras CSS para laptops */
+}
+
+/* PARA DESKTOPS (1200PX E ACIMA) */
+@media only screen and (min-width: 1200px) {
+/* Regras CSS para DESKTOPS */
+}
